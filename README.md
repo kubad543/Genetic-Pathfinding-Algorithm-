@@ -36,4 +36,4 @@ The progress of the genetic algorithm is visualized using:
 - **3D Parameter Evolution**: A 3D plot visualizing the evolution of the parameters of the best genomes through generations.
 
 ## Screenshots
-![Robot Path](path.gif)
+![Robot Path](robot_path.gif)
