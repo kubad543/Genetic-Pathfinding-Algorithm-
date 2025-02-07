@@ -1,5 +1,8 @@
 # Genetic Algorithm for Pathfinding Robot
 
+## Screenshots
+![Robot Path](robot_path.gif)
+
 ## Description
 This project uses a genetic algorithm to find an optimal path for a robot in a grid environment filled with obstacles. The robot starts at the top-left corner of the grid and aims to reach the bottom-right corner, avoiding obstacles along the way. The solution is represented as a sequence of commands (genome), which is evolved over generations using genetic operators such as selection, crossover, and mutation.
 
@@ -35,5 +38,3 @@ The progress of the genetic algorithm is visualized using:
 - **Fitness Progress**: A graph of the algorithm's progress in terms of the best fitness value over generations.
 - **3D Parameter Evolution**: A 3D plot visualizing the evolution of the parameters of the best genomes through generations.
 
-## Screenshots
-![Robot Path](robot_path.gif)
